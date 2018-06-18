@@ -1,6 +1,6 @@
 # Algorithmen und Komplexität
 
-Material, welches im Rahmen des Moduls **Algorithmen und Komplexität** an der Hochschule Zittau/Görlitz, verwendet wird.
+Material, welches im Rahmen des Moduls **Algorithmen und Komplexität** an der Hochschule Zittau/Görlitz verwendet wird.
 
 # Installation
 
