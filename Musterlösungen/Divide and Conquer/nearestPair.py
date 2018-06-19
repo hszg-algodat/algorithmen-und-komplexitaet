@@ -44,7 +44,7 @@ def minDistance(p1, p2):
     else:
         return calcDistance(p2[0],p2[1])
 
-def calcDistance(point1, point2):
+def calcDistance(point1, point2): #calculate the distance of two points
     a = abs(point1[0] - point2[0])
     b = abs(point1[1] - point2[1])
     c_2 = a * a + b * b
