@@ -1,5 +1,5 @@
 
-<img align="left" width="300" src="https://www.hszg.de/fileadmin/template/HSZG/imgs/gfx/hochschule_zittau_goerlitz_logo.gif"/>
+<img align="left" width="300" src="http://unternehmerverband-auv.de/fileadmin/user_upload/csm_HZG_Logo_100_RGB_11eefdbf4a.png"/>
 <img align="right" width="300" src="http://www.hszg.de/fileadmin/template/HSZG/imgs/logo/Logo-F-EI.gif"/>
 
 <br>
