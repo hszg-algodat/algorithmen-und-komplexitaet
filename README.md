@@ -3,6 +3,7 @@
 <img align="right" width="300" src="http://www.hszg.de/fileadmin/template/HSZG/imgs/logo/Logo-F-EI.gif"/>
 
 <br>
+<br>
 
 # Algorithmen und Komplexität
 
