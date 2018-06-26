@@ -2,7 +2,7 @@
 
 ![](https://www.hszg.de/fileadmin/template/HSZG/imgs/gfx/hochschule_zittau_goerlitz_logo.gif)
 
-<img style="float: right;" src="http://www.hszg.de/fileadmin/template/HSZG/imgs/logo/Logo-F-EI.gif">
+<img align="right" src="http://www.hszg.de/fileadmin/template/HSZG/imgs/logo/Logo-F-EI.gif">
 
 Material, welches im Rahmen des Moduls **Algorithmen und Komplexität** an der Hochschule Zittau/Görlitz verwendet wird.
 
