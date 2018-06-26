@@ -1,10 +1,8 @@
-<p align="left">
-<img width="300" src="https://www.hszg.de/fileadmin/template/HSZG/imgs/gfx/hochschule_zittau_goerlitz_logo.gif"/>
-</p>
-<p align="right">
-<img width="300" src="http://www.hszg.de/fileadmin/template/HSZG/imgs/logo/Logo-F-EI.gif"/>
-</p>
 
+<img align="left" width="300" src="https://www.hszg.de/fileadmin/template/HSZG/imgs/gfx/hochschule_zittau_goerlitz_logo.gif"/>
+<img align="right" width="300" src="http://www.hszg.de/fileadmin/template/HSZG/imgs/logo/Logo-F-EI.gif"/>
+
+<br>
 
 # Algorithmen und Komplexität
 
