@@ -44,7 +44,7 @@ def minDistance(p1, p2):
     else:
         return calcDistance(p2[0],p2[1])
 
-def calcDistance(point1, point2):
+def calcDistance(point1, point2): #calculate the distance of two points
     a = abs(point1[0] - point2[0])
     b = abs(point1[1] - point2[1])
     c_2 = a * a + b * b
@@ -88,12 +88,6 @@ numberOfPoints = 10
 for i in range(0, numberOfPoints):
     points.append((random.uniform(-size,size), random.uniform(-size,size)))
 
-# for i in range(0, len(points)):
-#     j = i + 1
-#     if j == len(points):
-#         j = 0
-#     print("Point1 "+str(points[i][0])+", "+str(points[i][1])+"; Point2 "+str(points[j][0])+", "+str(points[j][1])+": "+str(calcDistance(points[i], points[j])))
-
 point1, point2 = nearestPair(points)
 
 fig = plt.subplot()
@@ -110,6 +104,3 @@ fig.plot(point1[0], point1[1], 'ro')
 fig.plot(point2[0], point2[1], 'go')
 
 plt.show()
-
-# print(str(point1[0]) + ", "+str(point1[1]))
-# print(str(point2[0]) + ", "+str(point2[1]))
