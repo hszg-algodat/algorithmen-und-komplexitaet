@@ -16,7 +16,7 @@ Material, welches im Rahmen des Moduls **Algorithmen und Komplexität** an der H
 ### Repository Checkout
 
 ```
-git clone https://github.com/DennisWeiss/algorithms-datastructures-complexity
+git clone https://github.com/hszg-algodat/algorithmen-und-komplexitaet
 ```
 
 ### Anaconda Installation
