@@ -13,7 +13,7 @@ Material, welches im Rahmen des Moduls **Algorithmen und Komplexität** an der H
 
 Dieses Modul soll in die Entwicklung und Analyse von Algorithmen einführen. Zudem lernen Sie wichtige Datenstrukturen kennen, die für das Lösen von algorithmischen Problemen wichtig sind.
 
-Es gibt 13 Kapitel. Zu jedem gibt es ein Jupyter Notebook, bei welchem benötigte theroretische Grundlagen erläutert und Beispiele in Form von praktischen Algorithmen und Datenstrukturen gezeigt und implementiert werden. Haben Sie sich durch ein Kapitel durchgearbeitet, so stehen Übungsaufgaben bereit, die Sie lösen und anschließend mit den Musterlösungen abgleichen können.
+Es gibt 13 Kapitel. Zu jedem gibt es ein Jupyter Notebook, bei welchem benötigte theoretische Grundlagen erläutert und Beispiele in Form von praktischen Algorithmen und Datenstrukturen gezeigt und implementiert werden. Haben Sie sich durch ein Kapitel durchgearbeitet, so stehen Übungsaufgaben bereit, die Sie lösen und anschließend mit den Musterlösungen abgleichen können.
 
 # Installation
 
